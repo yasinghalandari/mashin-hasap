@@ -1,0 +1,6 @@
+{
+  "name": "حسابگر",
+  "description": "ماشین حساب حرفه‌ای و همه‌کاره ایرانی با پشتیبانی از محاسبات مهندسی، مالی و بانکی، طلا، تبدیل واحد و تقویم شمسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

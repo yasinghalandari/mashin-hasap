@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">حسابگر</string>
+    <string name="app_subtitle">فیروزه • حسابگر همه‌کاره</string>
+    <string name="tab_calculator">حسابگر</string>
+    <string name="tab_finance">مالی و طلا</string>
+    <string name="tab_converter">تبدیل واحد</string>
+    <string name="tab_tools">تاریخ و سلامت</string>
+    <string name="cd_history">تاریخچه محاسبات</string>
+    <string name="cd_settings">تنظیمات و ظاهر</string>
+    <string name="cd_copy_result">کپی نتیجه</string>
+    <string name="cd_swap_units">جابه‌جایی واحدها</string>
+    <string name="cd_toggle_scientific">حالت مهندسی</string>
+    <string name="cd_backspace">پاک کردن رقم آخر</string>
+    <string name="copied_toast">نتیجه در حافظه کپی شد</string>
+</resources>
